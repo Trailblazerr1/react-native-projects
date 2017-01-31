@@ -5,3 +5,4 @@ import App from './src/app';
 
 AppRegistry.registerComponent('manager', () => App);
 
+ 
