@@ -1,29 +1,30 @@
 [
         {
-        "title": "John Wick",
+        "title": "Vikings",
         "rating": 96,
-        "cover_image": "http://resizing.flixster.com/v96FSGC-1DY_VlTXtlrgjDm-75s=/600x400/v1.aDsxMzY0NDg7ajsxNzI0NDsyMDQ4OzU3NjA7Mzg0MA",
+        "cover_image": "http://2.bp.blogspot.com/-NVtY7-zDiXA/VscP8WVrzyI/AAAAAAAAeNs/kvwMyxWlOZE/s0/vikings-4.jpg",
+        "image" :"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+        "plot" : "The modern mammal metropolis of Zootopia is a city like no other. Comprised of habitat neighborhoods like ritzy Sahara Square and frigid Tundratown, it's a melting pot where animals from every environment live together-a place where no matter what you are, from the biggest elephant to the smallest shrew, you can be anything. But when rookie Officer Judy Hopps (voice of Ginnifer Goodwin) arrives, she discovers that being the first bunny on a police force of big, tough animals isn't so easy. Determined to prove herself, she jumps at the opportunity to crack a case, even if it means partnering with a fast-talking, scam-artist.. "
+    },
+        {
+        "title": "Resident Evil",
+        "rating": 98,
+        "cover_image": "http://2.bp.blogspot.com/-g84YVgbRIao/WI4pVoWfu0I/AAAAAAABbi0/3Y0lfcDG_sU/s0/resident-evil-chapitre-final.jpg",
         "image" :"http://resizing.flixster.com/lt46uSKG9UjWrGv4KdBa01fiVa0=/320x474/v1.bTsxMjIxMjc4MDtqOzE3MjQ2OzIwNDg7NjQxOzk0OQ",
         "plot" : "The modern mammal metropolis of Zootopia is a city like no other. Comprised of habitat neighborhoods like ritzy Sahara Square and frigid Tundratown, it's a melting pot where animals from every environment live together-a place where no matter what you are, from the biggest elephant to the smallest shrew, you can be anything. But when rookie Officer Judy Hopps (voice of Ginnifer Goodwin) arrives, she discovers that being the first bunny on a police force of big, tough animals isn't so easy. Determined to prove herself, she jumps at the opportunity to crack a case, even if it means partnering with a fast-talking, scam-artist.."
-    },  
+    },    
     {
         "title": "John Wick 2",
         "rating": 97,
-        "cover_image": "http://resizing.flixster.com/AZMmU9qDlEXY2FbGW9k_ZK-CRbA=/600x379/v1.aDsxMzY3NDU7ajsxNzI3MTsyMDQ4OzUxNzk7MzI3MA",
-        "image" :"http://resizing.flixster.com/lt46uSKG9UjWrGv4KdBa01fiVa0=/320x474/v1.bTsxMjIxMjc4MDtqOzE3MjQ2OzIwNDg7NjQxOzk0OQ",
+        "cover_image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+        "image" :"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
         "plot" : "The modern mammal metropolis of Zootopia is a city like no other. Comprised of habitat neighborhoods like ritzy Sahara Square and frigid Tundratown, it's a melting pot where animals from every environment live together-a place where no matter what you are, from the biggest elephant to the smallest shrew, you can be anything. But when rookie Officer Judy Hopps (voice of Ginnifer Goodwin) arrives, she discovers that being the first bunny on a police force of big, tough animals isn't so easy. Determined to prove herself, she jumps at the opportunity to crack a case, even if it means partnering with a fast-talking, scam-artist.."
     },  
-    {
-        "title": "La la land",
-        "rating": 98,
-        "cover_image": "http://resizing.flixster.com/tSMKFpHywyPOU_3TAdVOvue8cAs=/600x417/v1.aDsxMzY3NTY7ajsxNzIzNzsyMDQ4OzQzMDc7Mjk5NQ",
-        "image" :"http://resizing.flixster.com/lt46uSKG9UjWrGv4KdBa01fiVa0=/320x474/v1.bTsxMjIxMjc4MDtqOzE3MjQ2OzIwNDg7NjQxOzk0OQ",
-        "plot" : "The modern mammal metropolis of Zootopia is a city like no other. Comprised of habitat neighborhoods like ritzy Sahara Square and frigid Tundratown, it's a melting pot where animals from every environment live together-a place where no matter what you are, from the biggest elephant to the smallest shrew, you can be anything. But when rookie Officer Judy Hopps (voice of Ginnifer Goodwin) arrives, she discovers that being the first bunny on a police force of big, tough animals isn't so easy. Determined to prove herself, she jumps at the opportunity to crack a case, even if it means partnering with a fast-talking, scam-artist.."
-    },  
+
     {
         "title": "Passangers",
         "rating": 95,
-        "cover_image": "http://resizing.flixster.com/8RlAVxRupI9yNo2n7EZM-l4H__Q=/600x400/v1.aDsxMzY1NjI7ajsxNzI2ODsyMDQ4OzkzNjs2MjQ",
+        "cover_image": "http://2.bp.blogspot.com/-npfZAo3Lkuo/WJLi2OcKE9I/AAAAAAABbxU/IYkPhGNMCe4/s0/the-expanse-2.jpg",
         "image" :"http://resizing.flixster.com/lt46uSKG9UjWrGv4KdBa01fiVa0=/320x474/v1.bTsxMjIxMjc4MDtqOzE3MjQ2OzIwNDg7NjQxOzk0OQ",
         "plot" : "The modern mammal metropolis of Zootopia is a city like no other. Comprised of habitat neighborhoods like ritzy Sahara Square and frigid Tundratown, it's a melting pot where animals from every environment live together-a place where no matter what you are, from the biggest elephant to the smallest shrew, you can be anything. But when rookie Officer Judy Hopps (voice of Ginnifer Goodwin) arrives, she discovers that being the first bunny on a police force of big, tough animals isn't so easy. Determined to prove herself, she jumps at the opportunity to crack a case, even if it means partnering with a fast-talking, scam-artist.."
     },  
@@ -51,7 +52,7 @@
     {
         "title": "Star Wars",
         "rating": 94,
-        "cover_image": "http://resizing.flixster.com/vOntrJleQH6ZhyKuyHNnwal3K5Y=/600x299/v1.aDsxMzY0MjU7ajsxNzI2NjsyMDQ4OzE5MDQ7OTUw",
+        "cover_image": "http://2.bp.blogspot.com/-2FfcGjGV5ts/V_Ws2ceN-oI/AAAAAAABESw/RycNO6SCL4E/s0/arrow-5.jpg",
         "image" :"http://resizing.flixster.com/lt46uSKG9UjWrGv4KdBa01fiVa0=/320x474/v1.bTsxMjIxMjc4MDtqOzE3MjQ2OzIwNDg7NjQxOzk0OQ",
         "plot" : "The modern mammal metropolis of Zootopia is a city like no other. Comprised of habitat neighborhoods like ritzy Sahara Square and frigid Tundratown, it's a melting pot where animals from every environment live together-a place where no matter what you are, from the biggest elephant to the smallest shrew, you can be anything. But when rookie Officer Judy Hopps (voice of Ginnifer Goodwin) arrives, she discovers that being the first bunny on a police force of big, tough animals isn't so easy. Determined to prove herself, she jumps at the opportunity to crack a case, even if it means partnering with a fast-talking, scam-artist.."
     },  

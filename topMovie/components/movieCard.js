@@ -6,17 +6,21 @@ import {
     TouchableOpacity,
     Image
 } from 'react-native';
+import { Actions } from 'react-native-router-flux';
 import { connect } from 'react-redux';
 import * as actions from '../actions';
+
 
 const screen = Dimensions.get('window');
 
 class MovieCard extends Component {
     render() {
+        const sendData = () => Actions.detail({ data: this.props.rowData });
         //console.log(this.props.selectedId);
         return (
             <TouchableOpacity
-                onPress={() => this.props.selectMovie(this.props.rowData.rating)} //call action
+               // onPress={() => this.props.selectMovie(this.props.rowData.rating)} //call action
+                onPress={sendData}
                 style={styles.row}
                 activeOpacity={0.7}
             >
