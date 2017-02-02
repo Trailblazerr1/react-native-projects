@@ -1,8 +1,10 @@
 import { combineReducers } from 'redux';
 import MovieReducer from './movieReducer';
+import SelectReducer from './selectReducer';
 
 export default combineReducers({
-    list: MovieReducer
+    mlist: MovieReducer,
+    slectedMovie: SelectReducer
 });
 
 //export default list : 'Janet';
