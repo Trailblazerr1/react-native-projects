@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import { emailChanged, passChanged, loginUser } from '../actions'; //third
 import Card from './card';
 import CardSection from './cardSection';
-import Input, Spinner from './input';
+import Input, { Spinner } from './input';
 
 class LoginForm extends Component {
     onEmailChange(text) {
@@ -22,7 +22,7 @@ class LoginForm extends Component {
     }
 
     renderButton() {
-        if(this.props.loading) {
+        if (this.props.loading) {
             return <Spinner size="large" />;
         }
         return (
