@@ -14,7 +14,7 @@ const RouterComponent = () => {
 
       <Scene key="main">
         <Scene
-          onRight={() => Actions.employeeCreate()}
+          onRight={() => Actions.EmployeeCreate()}
           rightTitle="Add"
           key="employeeList"
           component={EmployeeList}
